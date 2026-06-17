@@ -1,6 +1,6 @@
-# 🚀 About Me
+# About Me
 
-👋 Hi! I'm **Ulvi Rasulov**. I'm passionate about **Data Engineering** and building scalable data pipelines. I work with modern data processing, orchestration, storage, and analytics tools to design reliable end-to-end data solutions.
+ Hi! I'm **Ulvi Rasulov**. I'm passionate about **Data Engineering** and building scalable data pipelines. I work with modern data processing, orchestration, storage, and analytics tools to design reliable end-to-end data solutions.
 
 # 💻 Tech Stack
 
